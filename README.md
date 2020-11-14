@@ -4,8 +4,6 @@ __Fork of https://github.com/samber/github-actions-runner__
 
 > Simple Docker images for starting self-hosted Github Actions runner(s).
 
-![Screenshot Github self-hosted runners](./screenshot1.png)
-
 [Github official documentation for self-hosted runners.](https://help.github.com/en/actions/hosting-your-own-runners/adding-self-hosted-runners)
 
 ## 🚀 Quick start
